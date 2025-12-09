@@ -1,4 +1,6 @@
 # 🧍 MeshAvatar – 3D Human Avatar Generator
+<img width="2336" height="722" alt="image" src="https://github.com/user-attachments/assets/f824489e-2d83-4f8e-a06f-fe99a0175d15" />
+
 
 MeshAvatar is a research-inspired system designed to reconstruct **high-quality 3D human avatars** from multi-view images.  
 This repository provides a **Gradio-based interactive demo** that simulates the MeshAvatar output pipeline by generating a 3D avatar preview from a single uploaded image.  
